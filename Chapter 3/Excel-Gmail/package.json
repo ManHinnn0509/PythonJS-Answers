@@ -1,0 +1,15 @@
+{
+  "name": "excel-gmail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gmail-send": "^1.8.10",
+    "read-excel-file": "^5.0.0"
+  }
+}
